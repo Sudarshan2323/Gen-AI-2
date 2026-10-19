@@ -1,0 +1,4 @@
+# AI-Assisted Automated File Organization System
+# Standard library only (Python 3.8+). No external dependencies are required.
+#
+# Optional: python-dotenv>=1.0.0  (to load .env automatically)
